@@ -49,5 +49,7 @@ async function addCompany() {
       console.error(error);
     }
   }
+
+  // otro comentario 
   
 
